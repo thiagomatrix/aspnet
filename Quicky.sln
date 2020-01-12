@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicky.Dominio", "Quicky.Dominio\Quicky.Dominio.csproj", "{8ACA02BA-9E96-4FD5-BBA8-3D304C75401F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicky.Repositorio", "Quicky.Repositorio\Quicky.Repositorio.csproj", "{626FFB97-B4D0-4109-80C0-5E518D61FC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicky.web", "Quicky.web\Quicky.web.csproj", "{67BFF65F-7388-476A-9A1A-A12DA1B66243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACA02BA-9E96-4FD5-BBA8-3D304C75401F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACA02BA-9E96-4FD5-BBA8-3D304C75401F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACA02BA-9E96-4FD5-BBA8-3D304C75401F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACA02BA-9E96-4FD5-BBA8-3D304C75401F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626FFB97-B4D0-4109-80C0-5E518D61FC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626FFB97-B4D0-4109-80C0-5E518D61FC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626FFB97-B4D0-4109-80C0-5E518D61FC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626FFB97-B4D0-4109-80C0-5E518D61FC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BFF65F-7388-476A-9A1A-A12DA1B66243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BFF65F-7388-476A-9A1A-A12DA1B66243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BFF65F-7388-476A-9A1A-A12DA1B66243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BFF65F-7388-476A-9A1A-A12DA1B66243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$1.CommitMessageStyle = $2
+		$2.IncludeDirectoryPaths = True
+	EndGlobalSection
+EndGlobal
